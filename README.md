@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá, eu soua a Leonarda.
+🦉Atualmente estou estudando front-end
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zyzleoz&show_icons=true&theme=dracula"/>
