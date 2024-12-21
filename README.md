@@ -1,4 +1,4 @@
-## Olá, eu soua a Leonarda.
+## Olá, eu sou a Leonarda.
 🦉Atualmente estou estudando front-end
 
 <div>
